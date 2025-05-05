@@ -14,7 +14,7 @@ setScreenColor(0x000000)
 
 
 lcd.print("IR Forwarder", 5, 5, 0xffffff)
-lcd.print("G26->G19", 5, 20, 0x00ff00)
+lcd.print("G26->A7", 5, 20, 0x00ff00)
 lcd.print("Status:", 5, 35, 0xffff00)
 
 
